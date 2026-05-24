@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- ═══ MAIN PAGES ═══ -->
+  <!-- ═══ MAIN PAGES — clean URLs, no .html ═══ -->
   <url>
     <loc>https://germantv4k.shop/</loc>
     <lastmod>2026-05-24</lastmod>
@@ -13,57 +13,59 @@
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/preise.html</loc>
+    <loc>https://germantv4k.shop/preise</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/preise"/>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/reseller.html</loc>
+    <loc>https://germantv4k.shop/iptv-germany</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.90</priority>
+    <priority>0.93</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/iptv-germany"/>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/kanale.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.88</priority>
-  </url>
-
-  <!-- ═══ NEW SEO PAGES ═══ -->
-  <url>
-    <loc>https://germantv4k.shop/german4k-tv.html</loc>
+    <loc>https://germantv4k.shop/german4k-tv</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.92</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/german4k-tv.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/german4k-tv"/>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/iptv-germany.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.92</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/iptv-germany.html"/>
-  </url>
-
-  <url>
-    <loc>https://germantv4k.shop/german-4k-channel-list.html</loc>
+    <loc>https://germantv4k.shop/german-4k-channel-list</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.88</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/german-4k-channel-list.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/german-4k-channel-list"/>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/faq.html</loc>
+    <loc>https://germantv4k.shop/reseller</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/reseller"/>
+  </url>
+
+  <url>
+    <loc>https://germantv4k.shop/kanale</loc>
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.86</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/kanale"/>
+  </url>
+
+  <url>
+    <loc>https://germantv4k.shop/faq</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
-    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://germantv4k.shop/faq"/>
   </url>
 
   <!-- ═══ BLOG ═══ -->
@@ -75,64 +77,64 @@
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/blog/bestes-iptv-deutschland-2026.html</loc>
+    <loc>https://germantv4k.shop/blog/bestes-iptv-deutschland-2026</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.90</priority>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/blog/iptv-einrichten-anleitung.html</loc>
+    <loc>https://germantv4k.shop/blog/iptv-einrichten-anleitung</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/blog/iptv-vs-kabel-satellit.html</loc>
+    <loc>https://germantv4k.shop/blog/iptv-vs-kabel-satellit</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/blog/iptv-bundesliga-2026.html</loc>
+    <loc>https://germantv4k.shop/blog/iptv-bundesliga-2026</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.82</priority>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/blog/iptv-reseller-werden.html</loc>
+    <loc>https://germantv4k.shop/blog/iptv-reseller-werden</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/blog/iptv-4k-sender-deutschland.html</loc>
+    <loc>https://germantv4k.shop/blog/iptv-4k-sender-deutschland</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.78</priority>
   </url>
 
-  <!-- ═══ LEGAL ═══ -->
+  <!-- ═══ LEGAL — noindex via _headers but still in sitemap for crawlability ═══ -->
   <url>
-    <loc>https://germantv4k.shop/impressum.html</loc>
+    <loc>https://germantv4k.shop/impressum</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.30</priority>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/datenschutz.html</loc>
+    <loc>https://germantv4k.shop/datenschutz</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.30</priority>
   </url>
 
   <url>
-    <loc>https://germantv4k.shop/agb.html</loc>
+    <loc>https://germantv4k.shop/agb</loc>
     <lastmod>2026-05-24</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.30</priority>
