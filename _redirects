@@ -1,23 +1,2 @@
 # Redirect all clean URLs to their .html versions (301)
 /index.html              /                               301
-
-/faq                    /faq.html                       301
-/iptv-germany           /iptv-germany.html              301
-/german4k-tv            /german4k-tv.html               301
-/german-4k-channel-list /german-4k-channel-list.html    301
-/preise                 /preise.html                    301
-/reseller               /reseller.html                  301
-/kanale                 /kanale.html                    301
-/impressum              /impressum.html                 301
-/datenschutz            /datenschutz.html               301
-/agb                    /agb.html                       301
-/kontakt                /kontakt.html                   301
-
-# Keyword aliases
-/iptv-deutschland       /iptv-germany.html              301
-/iptvgermany            /iptv-germany.html              301
-/german4ktv             /german4k-tv.html               301
-/sender                 /german-4k-channel-list.html    301
-/senderliste            /german-4k-channel-list.html    301
-/hilfe                  /faq.html                       301
-/support                /faq.html                       301
