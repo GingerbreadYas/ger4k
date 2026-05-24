@@ -1,4 +1,3 @@
-# ═══ ALL PAGES ═══
 /*
   X-Frame-Options: SAMEORIGIN
   X-Content-Type-Options: nosniff
@@ -7,27 +6,19 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
 
-# ═══ HTML PAGES — refresh every 30 min so Google sees updates fast ═══
 /*.html
   Cache-Control: public, max-age=1800, must-revalidate
-  X-Robots-Tag: index, follow
 
-# ═══ ASSETS — cache 1 year (improves Core Web Vitals = better ranking) ═══
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
-# ═══ SITEMAP — Google re-fetches every 24h ═══
 /sitemap.xml
   Cache-Control: public, max-age=86400
   Content-Type: application/xml; charset=UTF-8
-  X-Robots-Tag: noindex
 
-# ═══ ROBOTS.TXT ═══
 /robots.txt
   Cache-Control: public, max-age=86400
   Content-Type: text/plain; charset=UTF-8
 
-# ═══ BLOG POSTS ═══
 /blog/*
   Cache-Control: public, max-age=3600, must-revalidate
-  X-Robots-Tag: index, follow
